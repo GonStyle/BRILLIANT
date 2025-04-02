@@ -1,0 +1,119 @@
+/*Navbar*/
+.MYBG {
+  height: auto;
+  background: url(../assets/Navbars/MYbg.jpeg);
+  background-size: cover;
+}
+
+.LP {
+  height: auto;
+  color: white;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.LProduk {
+  background-color: #8b5e3b;
+  background-size: cover;
+  background-position: center;
+}
+/*Landing page*/
+.brand {
+  padding: 100px;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 5;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+}
+
+.judul {
+  font-size: 2rem;
+  font-weight: 200;
+  color: white;
+  font-family: "Playfair Display", serif;
+}
+
+/*bestseller*/
+.bestsellers {
+  color: #f5f5dc;
+  font-size: 3rem;
+  font-weight: 1000;
+  line-height: 5;
+  text-shadow: 3px 3px black;
+  letter-spacing: 2px;
+}
+
+.listnama {
+  background: #f5e6c4;
+  color: #8b5e3b;
+  font-family: "Playfair Display", serif;
+}
+
+.tampilanproduk {
+  height: 570px;
+}
+
+/*pemasaran*/
+.pemasaran {
+  height: auto;
+  margin: 40px;
+}
+
+.bg-about {
+  background: #f5e6c4;
+}
+
+.pengenalan {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.katadia-judul {
+  font-size: 2rem;
+  color: #8b5e3b;
+  font-family: "Playfair Display", serif;
+  text-align: left;
+  margin: 15px;
+}
+
+.katadia-isi {
+  color: #8b5e3b;
+  font-family: "Playfair Display", serif;
+  text-align: left;
+  margin: 15px;
+}
+
+/*Kontak*/
+.kontakKami {
+  background: #f5e6c4;
+}
+
+.icon {
+  font-size: 24px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.icon:hover {
+  transform: scale(1.2);
+}
+
+.whatsapp {
+  color: #25d366;
+}
+
+.facebook {
+  color: #1877f2;
+}
+
+.instagram {
+  color: #e4405f;
+}
+/*Kontak*/
+
+.jarak-br {
+  margin: 40px;
+  padding: auto;
+}
