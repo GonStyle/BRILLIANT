@@ -13,7 +13,7 @@ const Home = () => {
               <div className="judul">
                 TEMUKAN REMPAH REMPAH TERBAIK UNTUK ANDA
               </div>
-              <div className="introButton mt-5 mb-5 text-center">
+              <div className="introButton my-5 text-center">
                 <Button variant="dark" href="#produk">
                   BEST SELLERS
                 </Button>
