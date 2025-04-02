@@ -19,7 +19,7 @@ const Produk = () => {
   ];
 
   return (
-    <div>
+    <div id="produkt">
       <CardGroup className="my-5">
         {items.map((item, index) => (
           <Card>

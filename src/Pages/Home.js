@@ -14,7 +14,9 @@ const Home = () => {
                 TEMUKAN REMPAH REMPAH TERBAIK UNTUK ANDA
               </div>
               <div className="introButton mt-5 mb-5 text-center">
-                <Button variant="dark">Lihat Semua Produk</Button>
+                <Button variant="dark" href="#produk">
+                  BEST SELLERS
+                </Button>
               </div>
             </Row>
           </Col>

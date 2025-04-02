@@ -16,7 +16,7 @@ const NavbarLP = () => {
         </Navbar.Brand>
         <Nav>
           <Nav.Link href="#/">HOME</Nav.Link>
-          <Nav.Link href="#produk">PRODUCT</Nav.Link>
+          <Nav.Link href="#produkt">PRODUCT</Nav.Link>
           <Nav.Link href="#about">ABOUT</Nav.Link>
           <Nav.Link href="#contak">CONTACT</Nav.Link>
         </Nav>
